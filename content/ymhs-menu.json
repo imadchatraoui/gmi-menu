@@ -1,0 +1,87 @@
+{
+  "event": {
+    "title": "Youth Mental Health Summit",
+    "shortTitle": "YMHS",
+    "date": "2026-10-25",
+    "dateLabel": "Domenica 25 ottobre 2026",
+    "hours": "10:00–19:30",
+    "venue": "Casa del Quartiere di San Salvario",
+    "city": "Torino",
+    "organizers": "GMI Torino × UMMA RISE × Bayna",
+    "fee": "10 €",
+    "feeDetail": "Giornata e pranzo inclusi",
+    "deadline": "23 ottobre 2026",
+    "registrationUrl": "https://forms.gle/fRGgX14NWpU66HHJ9",
+    "instagramUrl": "https://www.instagram.com/gmi.torino/p/DeUjIBxtZtk/",
+    "verifiedOn": "2026-10-14"
+  },
+  "bowls": [
+    {
+      "id": "tonno",
+      "number": "01",
+      "title": "Tonno & avocado",
+      "description": "Tonno, cavolo rosso e avocado al miele d’acacia.",
+      "image": "/media/ymhs/bowl-tonno-ricotta.webp",
+      "imageAlt": "Illustrazione di una bowl con riso nero, avocado, tonno, ricotta e cavolo cappuccio rosso",
+      "ingredients": [
+        {
+          "name": "Riso nero",
+          "detail": ""
+        },
+        {
+          "name": "Avocado",
+          "detail": "Con miele di acacia"
+        },
+        {
+          "name": "Tonno pescato",
+          "detail": ""
+        },
+        {
+          "name": "Ricotta / formaggio light",
+          "detail": ""
+        },
+        {
+          "name": "Cavolo cappuccio rosso",
+          "detail": ""
+        }
+      ],
+      "allergens": [
+        "Pesce",
+        "Latte"
+      ]
+    },
+    {
+      "id": "pollo",
+      "number": "02",
+      "title": "Pollo & tahina",
+      "description": "Riso nero, hummus alla paprika e una salsa al sesamo.",
+      "image": "/media/ymhs/bowl-pollo-tahina.webp",
+      "imageAlt": "Illustrazione di una bowl con riso nero, barbabietola, hummus, avocado e pollo con salsa tahina",
+      "ingredients": [
+        {
+          "name": "Riso nero",
+          "detail": ""
+        },
+        {
+          "name": "Barbabietola",
+          "detail": ""
+        },
+        {
+          "name": "Hummus di ceci",
+          "detail": "Con un po’ di paprika"
+        },
+        {
+          "name": "Avocado",
+          "detail": "Con olio EVO, sale e limone"
+        },
+        {
+          "name": "Straccetti di pollo",
+          "detail": "Con salsa tahina al sesamo"
+        }
+      ],
+      "allergens": [
+        "Sesamo"
+      ]
+    }
+  ]
+}
